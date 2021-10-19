@@ -1,0 +1,29 @@
+
+.container{
+    position: relative;
+    margin-left: 318px;
+    margin-top: 10px;
+    
+}
+.contacts{
+    width: 270px;
+    height: 870px;
+    position: absolute;
+    background-color: #1e2520f3;
+}
+.first{
+    border: 2px solid black;
+    position: absolute;
+    left: 280px;
+    height: 870px;
+    width:493px;
+}
+img{
+    border-radius: 70px;
+    margin-left: 50px;
+}
+.underline{
+    width: 250px;
+    height: 2px;
+    background:cyan ;
+}

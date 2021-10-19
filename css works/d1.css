@@ -1,0 +1,23 @@
+div{
+    border:solid 2px #ff0000ce;
+    width: 400px;
+    height: 300px;
+    float: left;
+    background-color: sandybrown;
+    color: rgb(10, 92, 124);
+    text-align: center;
+}
+#id2{
+    background-color: springgreen;
+}
+
+#id1{
+    background-color: mediumvioletred;
+}
+div img{
+    height: 50%;
+    width: 500px;;
+}
+div p{
+    color: navy;
+}

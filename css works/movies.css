@@ -1,0 +1,41 @@
+.box{
+    border: solid 3px black;
+    width: 100%;
+    height: 750px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgba(170, 22, 101, 0.479);
+    /* margin-left: 40px; */
+
+}
+body{
+
+    background-color:rgba(10, 77, 94, 0.781)
+}
+
+.mov{
+    border: solid 2px rgb(163, 152, 152);
+    width: 250px;
+    height: 695px;
+    justify-content: space-around;
+    color: white;
+}
+.a{
+    
+    border: solid 2px black;
+    width: 200px;
+    height: 20px;
+    /* justify-content: space-around; */
+    /* align-items: center; */
+    justify-content: space-evenly;
+    text-align: center;
+    margin-left: 20px;
+    margin-top: 68px;
+
+
+}
+h2{
+    text-align: center;
+}
+

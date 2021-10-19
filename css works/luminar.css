@@ -1,0 +1,23 @@
+h1{
+    color: darkblue;
+}
+h2{
+    color: darkred;
+}
+
+ul{
+    color: sienna;
+}
+
+p{
+    color: hotpink;
+}
+ol{
+    color: yellow;
+}
+td{
+    color: springgreen;
+}
+body{
+    background-color: teal;
+}

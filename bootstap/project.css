@@ -1,0 +1,300 @@
+@import url('https://fonts.googleapis.com/css2?family=Ephesis&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+ 
+
+.i{ width: 1257px;
+    height: 625px;
+    margin-top: 0px;
+    margin-left: 114px;
+    /* border: solid 1px black; */
+
+}
+
+.d{
+    /* border: solid 2px black; */
+    width: 1000px;
+    height: 26px;
+   margin-left: -320px;
+    margin-top: 17px ;
+    text-align: right; 
+}
+
+h1{
+text-align: center;
+}
+
+  
+ 
+.cof{
+    /* border: solid 1px burlywood; */
+    width: 1256px;
+    height: 420px;
+    font-family: 'Caramel', cursive;
+    font-family: 'Ephesis', cursive;
+    font-size: 36px;
+    margin-top: 10px;
+    margin-left: 116px;
+    
+}
+
+  
+
+.text{
+    /* border: solid 2px black; */
+    width: 1511px;
+    height: 121px;
+    /* background-color:rgb(99, 47, 5); */
+    font-size: 16px;
+    padding-top: 14px;
+    /* padding-left: 50px; */
+    position: sticky;
+    display: flex;
+    
+    
+}
+
+
+.don{
+    /* border: solid 1px black; */
+    width: 150px;
+    height: 34px;
+    text-align: center;
+    margin-top: 87px;
+    padding-bottom: 0px;
+    padding-top: 10px;
+    
+}
+
+
+.da{
+    width: 1257px;
+    height: 313px;
+    border: solid 1px rgb(109, 78, 78);  
+    margin-left: 50px;
+    margin-top: 22px;
+    padding-top: 5px ;
+    display: flex;
+    font-family: 'Caramel', cursive;
+    font-family: 'Ephesis', cursive;
+    font-size: 31px;
+
+}
+
+.d1{
+    border: solid 1px black;
+    width: 1126px;
+    height: 312px; 
+    margin-left: 0px; 
+    
+
+}
+.d2{
+    border: solid 1px black;
+    width: 1166px;
+    height: 312px;
+    margin-left: 50px;
+
+     
+}
+
+
+.de{
+    width: 1257px;
+    height: 313px;
+    border: solid 1px rgb(109, 78, 78);
+    /* margin-top: 0px; */
+    margin-left: 50px;
+    display: flex;
+    /* padding-top: 5px ; */
+    font-family: 'Caramel', cursive;
+    font-family: 'Ephesis', cursive;
+    font-size: 31px;
+}
+
+.d3{
+    border: solid 1px black;
+    width: 893px;
+    height: 313px;
+    margin-left: 0px;
+}
+.d4{
+    border: solid 1px black;
+    width: 1001px;
+    height: 313px;
+    margin-left: 0px;
+}
+
+
+
+
+
+
+.di{
+   
+    border: solid 1px black;
+    width: 593px;
+    height: 300px;
+    margin-top: 2px;
+    margin-left: 50px;
+    
+
+
+}
+
+
+body{
+    background-color: blanchedalmond;
+} 
+
+.large{
+    margin-left: 68px;
+    border: solid 1px black;
+    width: 1352px;
+    height: 1103px;
+}
+
+
+
+
+footer{
+    background-color: #3b3b3b;
+    padding: 40px 80px ;
+}
+
+footer p{
+    color: #888;
+    text-align: center;
+}
+
+.social-links li{
+    list-style: none;
+    display: flex;
+    margin-left: 600px;
+}
+
+.social-links li a{
+    color: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 10px;
+    width: 40px;
+    height: 40px;
+
+}
+
+.social-links li a:link,
+.social-links li a:visited{
+    text-decoration: none;
+    transition: all 1s;
+
+}
+
+.social-links li a:active,
+.social-links li a:hover{
+    background-color: #ececec;
+    border-radius: 50%;
+}
+h2{
+    text-align: center;
+    margin-bottom: 50px;
+}
+ 
+.section-contact{
+    background-color:rgb(240, 193, 149);
+    padding: 50px 83px;
+    width: 100%;
+    height: 500px;
+    
+
+}
+.span-1-of-2{
+    width: 35%;
+    /* border: 1px solid black; */
+    float: left;
+    margin-left: 170px;
+
+}
+.contact-info{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.contact-info .info-group{
+    padding: 10px 0px;
+    display: flex;
+}
+.contact-info .info-group .icons{
+    width: 60px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    background-color: #fff;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+.contact-info .info-group .txt{
+    font-weight: 400;
+    color: #000;
+}
+.contact-form{
+    border: 1px solid black;
+    width: 50%;
+    padding: 30px;
+    border-radius: 20px;
+    background-color: #fff;
+    margin: left 117px;
+    
+}
+.contact-form h3{
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+.contact-form .form-group{
+    width: 100%;
+    margin-top: 10px;
+}
+ 
+input[type=text],
+input[type=email],
+textarea{
+    width: 100%;
+    padding: 5px 0;
+    font-size: 0.8rem;
+    margin: 15px 0;
+    border:none;
+    border-bottom: solid 2px #555;
+    resize: none;
+    outline:none;
+} 
+
+
+.don{
+    /* border: 2px solid black ; */
+    margin-left: 545px;
+} 
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+

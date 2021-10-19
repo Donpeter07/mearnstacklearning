@@ -1,0 +1,136 @@
+div{
+    height: 135px;
+    width: 100px;
+    background-color: lightseagreen;
+    float: left;
+
+}
+#id1{
+    margin-left: 508px;
+    background-color: grey;
+}
+#id2{
+    background-color: green;
+    margin-left: 10px;
+}
+#id3{
+    background-color: rgb(9, 145, 66);
+    margin-left: 10px;
+}
+#id4{
+    background-color: rgb(8, 252, 0);
+    margin-left: 10px;
+}
+#id5{
+    background-color: lightgrey;
+    margin-left: 10px;
+}
+body{
+    background-color:black ;
+}
+
+#id6{
+    margin-left: 398px;
+    margin-top: 30px;
+    margin-right: 10px;
+    background-color: coral;
+
+}
+#id7{
+    margin-top: 30px;
+    margin-right: 10px;
+    background-color:lightsalmon;
+    
+}
+
+#id8{
+    margin-top: 30px;
+    margin-right: 10px;
+    background-color: pink;
+    
+}
+#id9{
+    margin-top: 30px;
+    margin-right: 10px;
+    background-color: rebeccapurple;
+
+}
+#id10{
+    margin-top: 30px;
+    margin-right: 10px;
+    background-color: darkslateblue;
+    
+}
+#id11{
+    margin-top: 30px;
+    margin-right: 10px;
+    background-color: indigo;
+    
+}
+#id12{
+    margin-top: 30px;
+    margin-right: 10px;
+    background-color: lightgrey;
+}
+
+#r1{
+margin-left: 288px;
+margin-top: 30px;
+margin-right: 10px;
+background-color:lightskyblue ;
+
+}
+#r2{
+    margin-top: 30px;
+    margin-right: 10px;
+    background-color:lightgreen ;
+
+}
+#r3{
+    margin-top: 30px;
+    margin-right: 10px;
+    background-color:orange ;
+    
+}
+#r4{
+    margin-top: 30px;
+    margin-right: 10px;
+    background-color:mediumvioletred ;
+}
+    
+   
+#r5{
+    margin-top: 30px;
+    margin-right: 10px;
+    background-color:saddlebrown ;
+}
+   
+
+#r6{
+    margin-top: 30px;
+    margin-right: 10px;
+    background-color:lightseagreen ;
+    
+}
+#r7{
+    margin-top: 30px;
+    margin-right: 10px;
+    background-color:lightslategrey ;
+    
+}
+#r8{
+    margin-top: 30px;
+    margin-right: 10px;
+    background-color:mediumslateblue ;
+    
+}
+#r9{
+    margin-top: 30px;
+    margin-right: 10px;
+    background-color:slateblue ;
+    
+}
+h3{
+    margin-left: 687px;
+    color: honeydew;
+}

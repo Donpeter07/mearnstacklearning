@@ -1,0 +1,27 @@
+h6 span:nth-child(1){
+    color:black
+}
+h6 span:nth-child(2){
+    color: grey;
+}
+.col-4{
+    background-color: rgba(157, 157, 201, 0.767);
+}
+body{
+    height: 1000px;
+}
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    border: black 2px solid;
+}
+.first{
+    margin-top: 5px;
+    margin-left: 135px;
+    position: relative;
+}
+.pic{
+    position: absolute;
+
+}

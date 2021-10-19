@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Ephesis&display=swap');
+
+
+.div{
+    width: 230px;
+    height: 62px;
+    border: solid 2px black;
+
+}
+.div1{
+    margin-left: 20px;
+}
+.div2{
+    margin-left: 540px;
+    
+}
+.div3{
+    margin-left: 500px;
+    margin-top: 0px;
+}
+body{
+    background-color: gray;
+}
+p{
+    width: 100%;
+    height: 150px;
+}
+
+.div{
+    width:260px ;
+    height: 62px; ;
+    border:solid 2px black ;
+}

@@ -1,0 +1,18 @@
+.section a:nth-child(1){
+    color: blueviolet;
+}
+.section a:nth-child(2){
+    color: aqua;
+}
+.section a:nth-child(3){
+    color: brown ;
+}
+h1{
+    color: violet;
+}
+h1 span:nth-child(1){
+    color: yellowgreen;
+}
+h1 span:nth-child(2){
+    color: royalblue;
+}

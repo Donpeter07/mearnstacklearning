@@ -1,0 +1,32 @@
+.row{
+    width: 500px;
+    height:250px;
+    background-color: gold;
+    display: flex;
+    /* justify-content: space-between; consider the space btw */
+    /* justify-content: space-evenly ; */
+    justify-content: space-around;
+    align-items: center;
+    /* justify-content: flex-end; */
+    /* justify-content: flex-start; */
+
+}
+.col{
+    width: 100px;
+    height: 200px;
+    background-color: cadetblue;
+    border: solid 2px black;
+
+}
+.col1{
+    background-color: blue;
+}
+.col2{
+    background-color: chartreuse;
+}
+.col3{
+    background-color: darkred;
+}
+.col4{
+    background-color: deeppink;
+}

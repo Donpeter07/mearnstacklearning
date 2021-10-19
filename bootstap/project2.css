@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Scheherazade+New&display=swap');
+
+*,
+*:after,
+*:before{
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+:active,
+:hover,
+:focus{
+    outline:0 !important;
+    outline-offset: 0;
+}
+
+a,
+a:hover{
+    text-decoration: none;
+}
+a:hover{
+    color:rgb(4, 156, 16);
+}
+
+
+
+
+
+.navigation-wrap{
+    position: absolute;
+    width: 100%;
+    left: 0;
+    z-index: 1000;
+    -webkit-transition: all 0.3s ease-out;
+    transition:all 0.3s ease-out;
+}
+.navigation-wrap .nav-item{
+    padding:0 0.625rem;
+    transition:all 0.3s linear;
+}
+.navbar-toggler:focus{
+    outline: unset;
+    border: unset;
+    box-shadow: none;
+}
+.nav-link{
+    font-size: 0.93757rem;
+    font-weight: 600;
+    text-transform: capitalize;
+    /* color:white; */
+    letter-spacing: 1px;
+}
+.nav-link:hover,
+.nav-link.active{
+    color:white !important;
+}
+.navigation-wrap .main-btn{
+    padding: 0.3125rem 1.4375rem;
+    box-shadow: none;
+    margin-left: 0.625rem;
+}
+
+/* change navbar  styling on */
+
+.top-banner{
+    width: 100%;
+    background: url(img/bg-1.jpg) no-repeat center;
+    background-size: cover;
+    padding: 16.875rem 0 9.375rem;
+}
+.top-banner p{
+    color: white;
+}
+.top-banner h2{
+    color: green;
+}
+.top-banner h1{
+    color: white;
+}
+.main-btn{
+    border-radius: 7px;
+}
+
+.description{
+    font-size: 1.2rem;
+    font-weight: 700;
+    font-style: oblique;
+}
+
+.our-menu .card{
+    border: none;
+} 
+.our-menu .link_category-product{
+    position: relative;
+    display: block;
+    z-index: 1;
+
+}
+
+
+
+/* footer */
+
+footer{
+    background-color: #3b3b3b;
+    padding: 40px 80px ;
+}
+
+footer p{
+    color: #888;
+    text-align: center;
+}
+
+.social-links li{
+    list-style: none;
+    display: flex;
+    margin-left: 600px;
+}
+
+.social-links li a{
+    color: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 10px;
+    width: 40px;
+    height: 40px;
+
+}
+
+.social-links li a:link,
+.social-links li a:visited{
+    text-decoration: none;
+    transition: all 1s;
+
+}
+
+.social-links li a:active,
+.social-links li a:hover{
+    background-color: #ececec;
+    border-radius: 50%;
+}

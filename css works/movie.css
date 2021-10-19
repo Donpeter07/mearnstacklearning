@@ -1,0 +1,15 @@
+
+.par{
+    width: 1400px;
+    height: 700px;
+    border: solid 2px springgreen;
+    display: flex;
+    /* justify-content: space-around; */
+    /* align-items: center; */
+
+}
+.ch a{
+    border: solid 2px tomato;
+    width: 270px;
+    height: 650;
+}

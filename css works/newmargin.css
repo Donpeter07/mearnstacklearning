@@ -1,0 +1,17 @@
+/* div{
+    border: solid 2px black;
+    width: 300px;
+    height: 150px;
+} */
+.box1{
+    background-color: burlywood;
+    width: 500px;
+    position: sticky;
+    top: 5px;
+}
+
+.box2{
+    background-color: chartreuse;
+    width: 500px;
+    position: fixed;
+}
