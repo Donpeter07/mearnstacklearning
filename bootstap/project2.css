@@ -55,6 +55,7 @@ a:hover{
 .nav-link:hover,
 .nav-link.active{
     color:white !important;
+
 }
 .navigation-wrap .main-btn{
     padding: 0.3125rem 1.4375rem;
